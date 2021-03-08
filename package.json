@@ -8,11 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
-    "@rpldy/chunked-uploady": "^0.8.1",
-    "@rpldy/mock-sender": "^0.8.1",
-    "@rpldy/upload-button": "^0.8.1",
-    "@rpldy/upload-drop-zone": "^0.8.1",
-    "@rpldy/upload-preview": "^0.8.1",
+    "@rpldy/chunked-uploady": "^0.11.3",
+    "@rpldy/mock-sender": "^0.11.3",
+    "@rpldy/upload-button": "^0.11.3",
+    "@rpldy/upload-drop-zone": "^0.11.3",
+    "@rpldy/upload-preview": "^0.11.3",
+    "@rpldy/uploady": "^0.11.3",
     "@uppy/core": "^1.13.2",
     "next": "9.3.5",
     "react": "16.13.1",

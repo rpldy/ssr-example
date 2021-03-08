@@ -57,7 +57,7 @@ export default function Home() {
         <h3>Chunked Upload Button</h3>
         <ChunkedUploadButton/>
 
-        <h3>Upload Drop Zone</h3>
+        {/*<h3>Upload Drop Zone</h3>*/}
       </ChunkedUploady>
     </main>
   );
